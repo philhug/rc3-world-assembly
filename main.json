@@ -122,7 +122,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>\/maps\/software.json#start_coreboot"
+                 "value":"https://lobby.maps.at.rc3.world\/maps\/software.json#start_coreboot"
                 }],
          "type":"tilelayer",
          "visible":true,
