@@ -773,8 +773,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":33,
          "firstgid":5683,
-         "source":"text_coreboot.tsx"
+         "image":"tiles_png\/cy\/text-coreboot.png",
+         "imageheight":1056,
+         "imagewidth":1056,
+         "margin":0,
+         "name":"text_coreboot",
+         "spacing":0,
+         "tilecount":1089,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
