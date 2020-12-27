@@ -50,7 +50,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"rc3-osf"
+                 "value":"coreboot"
                 }],
          "type":"tilelayer",
          "visible":true,
